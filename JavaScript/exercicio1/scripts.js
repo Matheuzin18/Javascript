@@ -4,5 +4,6 @@ function nascimento() {
     document.getElementById("resultado").innerHTML = calculo;
 
 
-    
+    console.log(idade);
+    console.log(calculo);
 }
